@@ -1,0 +1,48 @@
+#left {
+  height: 800px;
+  width: 480px;
+  background: #393e46;
+}
+
+#map {
+  position: relative;
+  bottom: 800px;
+  left: 500px;
+  height: 800px;
+  width: 1000px;
+}
+#text {
+  color: white;
+  position: relative;
+  left: 40%;
+  top: 4%;
+  font-family: "Merriweather", serif;
+  font-size: xx-large;
+}
+#mid {
+  height: 50px;
+  width: 480px;
+  background-color: #b2b2b2;
+}
+#image {
+  position: relative;
+  top: 7%;
+  left: 23%;
+  width: 50%;
+  height: 150px;
+}
+.tagline {
+  position: relative;
+  left: 23%;
+  right: 50%;
+  top: 10%;
+  width: 50%;
+  font-size: x-large;
+  color: beige;
+}
+.tag {
+  position: relative;
+  top: 10px;
+  height: 30px;
+  width: 30px;
+}
